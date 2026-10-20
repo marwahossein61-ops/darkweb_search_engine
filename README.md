@@ -1,12 +1,12 @@
-# DarkWeb Search Engine
+# Dark Web Search Engine
 
 A **modular** dark web crawler and search engine that:
 - Collects hidden service pages asynchronously via Tor
-- Automatically discovers seed URLs via onion search engines
-- Indexes content using **Boolean**, **TF‑IDF**, and **BM25** models
+- Automatically covers see URLs via onion search engines
+- Indexes content account **Boolean**, **TF‑IDF**, and **BM25** models
 - Provides risk assessment (keyword‑based & zero‑shot AI)
 
-## ⚠️ Disclaimer
+## ⚠️ claimer. on myaccount github.com. 
 
 This project is intended for educational and research purposes only.
 Accessing the dark web may involve legal, ethical, and security risks.
